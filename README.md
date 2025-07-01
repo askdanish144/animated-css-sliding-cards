@@ -1,6 +1,6 @@
 # 🎴 Animated Card Slider – Pure HTML & CSS
 
-This project is a beautifully responsive **animated card slider** crafted using **only HTML & CSS**. It features interactive cards that expand with smooth transitions to reveal more information—no JavaScript involved.
+This project is a about **animated card slider** crafted using **only HTML & CSS**. It features interactive cards that expand with smooth transitions to reveal more information—no JavaScript involved.
 
 ---
 
