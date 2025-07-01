@@ -14,7 +14,6 @@ This project is a beautifully responsive **animated card slider** crafted using 
 
 - 🔹 **Pure HTML & CSS** – Lightweight and simple
 - 🔹 **Animated Card Transitions** – Clickable cards that expand dynamically
-- 🔹 **Responsive Layout** – Works great across all device sizes
 - 🔹 **Custom Backgrounds** – Each card has a unique image
 - 🔹 **Smooth UX** – Elegant animations for a modern feel
 
@@ -27,7 +26,7 @@ This project is a beautifully responsive **animated card slider** crafted using 
 
   ---
 
-  ## 💡 Using This Repo
+## 💡 Using This Repo
 
 This project is intended solely for portfolio and demonstration purposes.
 
